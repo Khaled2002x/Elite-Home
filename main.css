@@ -44,7 +44,7 @@ select {
   transition: 0.3s;
 }
 
-.nav-item .nav-link::after {
+.collapse .nav-item .nav-link::after {
   content: "";
   left: 0;
   transition: 0.3s;
